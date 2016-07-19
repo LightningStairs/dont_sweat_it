@@ -1,2 +1,3 @@
 # Dont Sweat It
-Your app description, here.
+
+A fitness app that allows you to create and run customizable workouts.
